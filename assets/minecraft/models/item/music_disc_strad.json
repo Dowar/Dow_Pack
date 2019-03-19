@@ -8,5 +8,6 @@
 		{"predicate": {"custom_model_data":1}, "model": "item/music_disc_strad/1"},
 		{"predicate": {"custom_model_data":2}, "model": "item/music_disc_strad/2"},
 		{"predicate": {"custom_model_data":3}, "model": "item/music_disc_strad/3"}
+		{"predicate": {"custom_model_data":4}, "model": "item/music_disc_strad/4"}
 	]
 }
