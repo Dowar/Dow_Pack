@@ -6,4 +6,12 @@
 	  "stream": true
     }]
   }
+  
+  "music.sail": {
+    "category": "record",
+    "sounds": [{
+      "name": "music/sail",
+	  "stream": true
+    }]
+  }
 }
