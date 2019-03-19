@@ -1,0 +1,9 @@
+{
+  "music.portal": {
+    "category": "record",
+    "sounds": [{
+      "name": "music/portal",
+	  "stream": true
+    }]
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "pack": {
+    "pack_format": 4,
+    "description": "Addon du Serveur"
+  },
+  "language":{
+      "LANG_COUNTRY":{
+         "name":"Français",
+         "region":"France",
+         "bidirectional":false
+      }
+   }
+}
