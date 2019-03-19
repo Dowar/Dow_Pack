@@ -5,8 +5,7 @@
       "name": "music/portal",
 	  "stream": true
     }]
-  }
-  
+  },
   "music.sail": {
     "category": "record",
     "sounds": [{
