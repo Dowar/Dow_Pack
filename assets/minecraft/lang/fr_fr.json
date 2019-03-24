@@ -31,5 +31,7 @@
 	"item.minecraft.music_disc_strad3": "Disque",
     "item.minecraft.music_disc_strad3.desc": "C418 - dragon",
 	"item.minecraft.music_disc_strad4": "Disque",
-    "item.minecraft.music_disc_strad4.desc": "sea of thieve - sail"
+    "item.minecraft.music_disc_strad4.desc": "sea of thieve - sail",
+	
+	"\u00A70Piston Extensible": "%s"
 }
