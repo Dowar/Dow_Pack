@@ -36,6 +36,9 @@
 	"item.minecraft.ender_wand": "Sceptre de l'Ender",
 	"item.minecraft.ender_wand_desc": "Permet de se téléporter à l'endroit ciblé",
 	"item.minecraft.ender_wand_desc2": "Forgé avec la griffe et l'œil d'un Ender-Dragon",
+	"item.minecraft.storm_wand": "Sceptre de Zeus",
+	"item.minecraft.storm_wand_desc": "Permet de lancer un éclair à l'endroit ciblé",
+	"item.minecraft.storm_wand_desc2": "Forgé avec un bâton de blaze et 2.21 Gigowatts",
 	
 	"\u00A70Piston Extensible": "%s"
 }
